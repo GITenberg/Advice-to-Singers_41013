@@ -1,0 +1,27 @@
+_repo: Advice-to-Singers_41013
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41013-h/images/th_cover.jpg
+creator:
+  author:
+    agent_name: Crowest, Frederick James
+    birthdate: 1850
+    deathdate: 1927
+    gutenberg_agent_id: '40933'
+    url: http://www.gutenberg.org/2009/agents/40933
+description: ''
+gutenberg_issued: '2012-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voice culture'
+- !lcc 'MT'
+- !lcsh 'Singing'
+title: Advice to Singers
+url: http://www.gutenberg.org/ebooks/41013
